@@ -1,266 +1,442 @@
 #EXTM3U
 
 #EXTINF:-1, ANIMAL PLANET
-https://dlnmh9ip6v2xcxz.cloudfont.live/animalplanet.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/animalplanet.m3u8
 
 #EXTINF:-1, AXN
-https://dlnmh9ip6v2xcxz.cloudfont.live/axn.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/axn.m3u8
 
 #EXTINF:-1, BAND
-https://dlnmh9ip6v2xcxz.cloudfont.live/band.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/band.m3u8
 
 #EXTINF:-1, BAND NEWS
-https://dlnmh9ip6v2xcxz.cloudfont.live/bandnews.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/bandnews.m3u8
 
 #EXTINF:-1, BAND SPORTS
-https://dlnmh9ip6v2xcxz.cloudfont.live/bandsports.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/bandsports.m3u8
 
 #EXTINF:-1, CARTOON NETWORK
-https://dlnmh9ip6v2xcxz.cloudfont.live/cartoonnetwork.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/cartoonnetwork.m3u8
 
 #EXTINF:-1, CAZE TV 1
-https://dlnmh9ip6v2xcxz.cloudfont.live/cazetv1.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/cazetv1.m3u8
 
 #EXTINF:-1, CAZE TV 2
-https://dlnmh9ip6v2xcxz.cloudfont.live/cazetv2.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/cazetv2.m3u8
 
 #EXTINF:-1, CINEMAX
-https://dlnmh9ip6v2xcxz.cloudfont.live/cinemax.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/cinemax.m3u8
 
 #EXTINF:-1, CNN BRASIL
-https://dlnmh9ip6v2xcxz.cloudfont.live/cnnbrasil.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/cnnbrasil.m3u8
 
 #EXTINF:-1, COMBATE
-https://dlnmh9ip6v2xcxz.cloudfont.live/combate.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/combate.m3u8
 
 #EXTINF:-1, COMEDY CENTRAL
-https://dlnmh9ip6v2xcxz.cloudfont.live/comedycentral.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/comedycentral.m3u8
 
 #EXTINF:-1, CULTURA
-https://dlnmh9ip6v2xcxz.cloudfont.live/cultura.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/cultura.m3u8
 
 #EXTINF:-1, DISCOVERY CHANNEL
-https://dlnmh9ip6v2xcxz.cloudfont.live/discoverychannel.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/discoverychannel.m3u8
 
 #EXTINF:-1, DISCOVERY KIDS
-https://dlnmh9ip6v2xcxz.cloudfont.live/discoverykids.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/discoverykids.m3u8
 
 #EXTINF:-1, DISNEY CHANNEL
-https://dlnmh9ip6v2xcxz.cloudfont.live/disneychannel.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/disneychannel.m3u8
 
 #EXTINF:-1, DISNEY JUNIOR
-https://dlnmh9ip6v2xcxz.cloudfont.live/disneyjunior.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/disneyjunior.m3u8
 
 #EXTINF:-1, E ENTERTAINMENT
-https://dlnmh9ip6v2xcxz.cloudfont.live/eentertainment.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/eentertainment.m3u8
 
 #EXTINF:-1, EI PLUS
-https://dlnmh9ip6v2xcxz.cloudfont.live/eiplus.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/eiplus.m3u8
 
 #EXTINF:-1, ESPN
-https://dlnmh9ip6v2xcxz.cloudfont.live/espn.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/espn.m3u8
 
 #EXTINF:-1, ESPN 2
-https://dlnmh9ip6v2xcxz.cloudfont.live/espn2.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/espn2.m3u8
 
 #EXTINF:-1, ESPN 3
-https://dlnmh9ip6v2xcxz.cloudfont.live/espn3.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/espn3.m3u8
 
 #EXTINF:-1, ESPN 4
-https://dlnmh9ip6v2xcxz.cloudfont.live/espn4.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/espn4.m3u8
 
 #EXTINF:-1, FISH TV
-https://dlnmh9ip6v2xcxz.cloudfont.live/fishtv.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/fishtv.m3u8
 
 #EXTINF:-1, FOOD NETWORK
-https://dlnmh9ip6v2xcxz.cloudfont.live/foodnetwork.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/foodnetwork.m3u8
 
 #EXTINF:-1, FOX
-https://dlnmh9ip6v2xcxz.cloudfont.live/fox.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/fox.m3u8
 
 #EXTINF:-1, FOX SPORTS
-https://dlnmh9ip6v2xcxz.cloudfont.live/foxsports.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/foxsports.m3u8
 
 #EXTINF:-1, FOX SPORTS 2
-https://dlnmh9ip6v2xcxz.cloudfont.live/foxsports2.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/foxsports2.m3u8
 
 #EXTINF:-1, FX
-https://dlnmh9ip6v2xcxz.cloudfont.live/fx.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/fx.m3u8
 
 #EXTINF:-1, GETV
-https://dlnmh9ip6v2xcxz.cloudfont.live/getv.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/getv.m3u8
 
 #EXTINF:-1, GLOBO MG
-https://dlnmh9ip6v2xcxz.cloudfont.live/globomg.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/globomg.m3u8
 
 #EXTINF:-1, GLOBO NEWS
-https://dlnmh9ip6v2xcxz.cloudfont.live/globonews.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/globonews.m3u8
 
 #EXTINF:-1, GLOBO RJ
-https://dlnmh9ip6v2xcxz.cloudfont.live/globorj.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/globorj.m3u8
 
 #EXTINF:-1, GLOBO SP
-https://dlnmh9ip6v2xcxz.cloudfont.live/globosp.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/globosp.m3u8
 
 #EXTINF:-1, HBO
-https://dlnmh9ip6v2xcxz.cloudfont.live/hbo.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/hbo.m3u8
 
 #EXTINF:-1, HBO 2
-https://dlnmh9ip6v2xcxz.cloudfont.live/hbo2.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/hbo2.m3u8
 
 #EXTINF:-1, HBO FAMILY
-https://dlnmh9ip6v2xcxz.cloudfont.live/hbofamily.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/hbofamily.m3u8
 
 #EXTINF:-1, HBO PLUS
-https://dlnmh9ip6v2xcxz.cloudfont.live/hboplus.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/hboplus.m3u8
 
 #EXTINF:-1, HGTV
-https://dlnmh9ip6v2xcxz.cloudfont.live/hgtv.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/hgtv.m3u8
 
 #EXTINF:-1, HISTORY CHANNEL
-https://dlnmh9ip6v2xcxz.cloudfont.live/historychannel.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/historychannel.m3u8
 
 #EXTINF:-1, INVESTIGATION DISCOVERY
-https://dlnmh9ip6v2xcxz.cloudfont.live/investigationdiscovery.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/investigationdiscovery.m3u8
 
 #EXTINF:-1, LIFETIME
-https://dlnmh9ip6v2xcxz.cloudfont.live/lifetime.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/lifetime.m3u8
 
 #EXTINF:-1, MAX PRIME
-https://dlnmh9ip6v2xcxz.cloudfont.live/maxprime.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/maxprime.m3u8
 
 #EXTINF:-1, MAX UP
-https://dlnmh9ip6v2xcxz.cloudfont.live/maxup.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/maxup.m3u8
 
 #EXTINF:-1, MEGAPIX
-https://dlnmh9ip6v2xcxz.cloudfont.live/megapix.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/megapix.m3u8
 
 #EXTINF:-1, MTV
-https://dlnmh9ip6v2xcxz.cloudfont.live/mtv.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/mtv.m3u8
 
 #EXTINF:-1, MULTISHOW
-https://dlnmh9ip6v2xcxz.cloudfont.live/multishow.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/multishow.m3u8
 
 #EXTINF:-1, NATIONAL GEOGRAPHIC
-https://dlnmh9ip6v2xcxz.cloudfont.live/nationalgeographic.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/nationalgeographic.m3u8
 
 #EXTINF:-1, NICK JR
-https://dlnmh9ip6v2xcxz.cloudfont.live/nickjr.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/nickjr.m3u8
 
 #EXTINF:-1, NICKELODEON
-https://dlnmh9ip6v2xcxz.cloudfont.live/nickelodeon.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/nickelodeon.m3u8
 
 #EXTINF:-1, PARAMOUNT 1
-https://dlnmh9ip6v2xcxz.cloudfont.live/paramount1.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/paramount1.m3u8
 
 #EXTINF:-1, PARAMOUNT 2
-https://dlnmh9ip6v2xcxz.cloudfont.live/paramount2.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/paramount2.m3u8
 
 #EXTINF:-1, PARAMOUNT 3
-https://dlnmh9ip6v2xcxz.cloudfont.live/paramount3.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/paramount3.m3u8
 
 #EXTINF:-1, PARAMOUNT NETWORK
-https://dlnmh9ip6v2xcxz.cloudfont.live/paramountnetwork.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/paramountnetwork.m3u8
 
 #EXTINF:-1, PREMIERE
-https://dlnmh9ip6v2xcxz.cloudfont.live/premiere.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/premiere.m3u8
 
 #EXTINF:-1, PREMIERE 2
-https://dlnmh9ip6v2xcxz.cloudfont.live/premiere2.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/premiere2.m3u8
 
 #EXTINF:-1, PREMIERE 3
-https://dlnmh9ip6v2xcxz.cloudfont.live/premiere3.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/premiere3.m3u8
 
 #EXTINF:-1, PREMIERE 4
-https://dlnmh9ip6v2xcxz.cloudfont.live/premiere4.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/premiere4.m3u8
 
 #EXTINF:-1, PREMIERE 5
-https://dlnmh9ip6v2xcxz.cloudfont.live/premiere5.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/premiere5.m3u8
 
 #EXTINF:-1, PREMIERE 6
-https://dlnmh9ip6v2xcxz.cloudfont.live/premiere6.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/premiere6.m3u8
 
 #EXTINF:-1, PREMIERE 7
-https://dlnmh9ip6v2xcxz.cloudfont.live/premiere7.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/premiere7.m3u8
 
 #EXTINF:-1, PRIME VIDEO 1
-https://dlnmh9ip6v2xcxz.cloudfont.live/primevideo1.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/primevideo1.m3u8
 
 #EXTINF:-1, PRIME VIDEO 2
-https://dlnmh9ip6v2xcxz.cloudfont.live/primevideo2.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/primevideo2.m3u8
 
 #EXTINF:-1, PRIME VIDEO 3
-https://dlnmh9ip6v2xcxz.cloudfont.live/primevideo3.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/primevideo3.m3u8
 
 #EXTINF:-1, RECORD NEWS
-https://dlnmh9ip6v2xcxz.cloudfont.live/recordnews.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/recordnews.m3u8
 
 #EXTINF:-1, RECORD TV
-https://dlnmh9ip6v2xcxz.cloudfont.live/recordtv.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/recordtv.m3u8
 
 #EXTINF:-1, REDE TV
-https://dlnmh9ip6v2xcxz.cloudfont.live/redetv.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/redetv.m3u8
 
 #EXTINF:-1, SBT
-https://dlnmh9ip6v2xcxz.cloudfont.live/sbt.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/sbt.m3u8
 
 #EXTINF:-1, SBT NEWS
-https://dlnmh9ip6v2xcxz.cloudfont.live/sbtnews.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/sbtnews.m3u8
 
 #EXTINF:-1, SONY CHANNEL
-https://dlnmh9ip6v2xcxz.cloudfont.live/sonychannel.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/sonychannel.m3u8
 
 #EXTINF:-1, SPACE
-https://dlnmh9ip6v2xcxz.cloudfont.live/space.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/space.m3u8
 
 #EXTINF:-1, SPORTV
-https://dlnmh9ip6v2xcxz.cloudfont.live/sportv.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/sportv.m3u8
 
 #EXTINF:-1, SPORTV 2
-https://dlnmh9ip6v2xcxz.cloudfont.live/sportv2.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/sportv2.m3u8
 
 #EXTINF:-1, SPORTV 3
-https://dlnmh9ip6v2xcxz.cloudfont.live/sportv3.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/sportv3.m3u8
 
 #EXTINF:-1, TELECINE ACTION
-https://dlnmh9ip6v2xcxz.cloudfont.live/telecineaction.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/telecineaction.m3u8
 
 #EXTINF:-1, TELECINE CULT
-https://dlnmh9ip6v2xcxz.cloudfont.live/telecinecult.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/telecinecult.m3u8
 
 #EXTINF:-1, TELECINE FUN
-https://dlnmh9ip6v2xcxz.cloudfont.live/telecinefun.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/telecinefun.m3u8
 
 #EXTINF:-1, TELECINE PIPOCA
-https://dlnmh9ip6v2xcxz.cloudfont.live/telecinepipoca.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/telecinepipoca.m3u8
 
 #EXTINF:-1, TELECINE PREMIUM
-https://dlnmh9ip6v2xcxz.cloudfont.live/telecinepremium.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/telecinepremium.m3u8
 
 #EXTINF:-1, TELECINE TOUCH
-https://dlnmh9ip6v2xcxz.cloudfont.live/telecinetouch.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/telecinetouch.m3u8
 
 #EXTINF:-1, TESTE2
-https://dlnmh9ip6v2xcxz.cloudfont.live/teste2.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/teste2.m3u8
 
 #EXTINF:-1, TLC
-https://dlnmh9ip6v2xcxz.cloudfont.live/tlc.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/tlc.m3u8
 
 #EXTINF:-1, TNT
-https://dlnmh9ip6v2xcxz.cloudfont.live/tnt.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/tnt.m3u8
 
 #EXTINF:-1, TNT CUSTOM
-https://dlnmh9ip6v2xcxz.cloudfont.live/tntcustom.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/tntcustom.m3u8
 
 #EXTINF:-1, TRAVEL CHANNEL
-https://dlnmh9ip6v2xcxz.cloudfont.live/travelchannel.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/travelchannel.m3u8
 
 #EXTINF:-1, UFC FIGHT PASS
-https://dlnmh9ip6v2xcxz.cloudfont.live/ufcfightpass.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/ufcfightpass.m3u8
 
 #EXTINF:-1, UNIVERSAL CHANNEL
-https://dlnmh9ip6v2xcxz.cloudfont.live/universalchannel.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/universalchannel.m3u8
 
 #EXTINF:-1, WARNER CHANNEL
-https://dlnmh9ip6v2xcxz.cloudfont.live/warnerchannel.m3u8|Referer=https://embedflix.cv/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://dlnmh9ip6v2xcxz.cloudfont.live/warnerchannel.m3u8
 
