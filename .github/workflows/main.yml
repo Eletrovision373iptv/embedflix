@@ -2,7 +2,8 @@ name: Atualizar Lista IPTV
 
 on:
   schedule:
-    - cron: '0 9 * * *' # Roda todo dia às 06:00 BRT (9:00 UTC)
+    - cron: '10 12 * * *' # Sugestão: 12:10 UTC (09:10 BRT) para evitar o "rush"
+    
   workflow_dispatch: # Permite rodar manualmente com um clique
 
 jobs:
