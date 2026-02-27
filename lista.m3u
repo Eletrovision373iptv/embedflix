@@ -166,10 +166,11 @@ https://dlnmh9ip6v2xcxz.cloudfont.live/globonews.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://dlnmh9ip6v2xcxz.cloudfont.live/globorj.m3u8
 
-#EXTINF:-1, GLOBO SP
-#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTM3U
+#EXTINF:-1, GLOBO SP (Streamlink)
+#EXTVLCOPT:http-referrer=https://embedflix.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://dlnmh9ip6v2xcxz.cloudfont.live/globosp.m3u8
+https://dlnmh9ip6v2xcxz.superbol.blog/globosp.m3u8|Referer=https://embedflix.click/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1, HBO
 #EXTVLCOPT:http-referrer=https://embedflix.cv/
