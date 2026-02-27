@@ -1,9 +1,10 @@
 #EXTM3U
 
+#EXTM3U
 #EXTINF:-1, ANIMAL PLANET
-#EXTVLCOPT:http-referrer=https://embedflix.cv/
+#EXTVLCOPT:http-referrer=https://embedflix.click/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-https://dlnmh9ip6v2xcxz.cloudfont.live/animalplanet.m3u8
+https://dlnmh9ip6v2xcxz.superbol.blog/animalplanet.m3u8|Referer=https://embedflix.click/&User-Agent=Mozilla/5.0
 
 #EXTINF:-1, AXN
 #EXTVLCOPT:http-referrer=https://embedflix.cv/
